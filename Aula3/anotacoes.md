@@ -15,8 +15,32 @@ Atividades:
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Minix:
+ls:
+
+Lista diretorios e arquivos;
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-BSD: 
+whoami:
+
+Retorna usuário atual;
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Estrutura de Diretorios:
+  /bin -> Binários disponíveis para todos os usuários
+  /boot -> Arquivos necessários ao processo de inicialização
+  /dev -> Dispositivos físicos (como discos, etc)
+  /home -> Diretorios dos usuarios
+  /etc -> 
+  /lib ->
+  /media -> Midias montaveis e desmontaveis
+  /mnt -> Ponto de montagem.
+  /opt -> Pacotes de software opcionais
+  /root -> Diretorio do superuser root
+  /run -> 
+  /sbin -> Binarios do Sistema
+  /srv -> Dados de serviços.
+  /tmp -> Arquivos temporários
+  /usr -> Programas e dados dos programas
+  /proc -> Relacionados aos processos
