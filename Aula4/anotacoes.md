@@ -13,10 +13,10 @@ Atividades:
   Técnicas de segurança que permitem transformar dados em códigos indecifráveis para pessoas sem a chave correta.
   Elas mantém a privacidade e a autenticidade.
 
-## - Criptografia Simétrica
+#### - Criptografia Simétrica
   Chave publica + chave privada (uma criptografa e uma descriptografa).
 
-## - Criptografia Assimétrica
+#### - Criptografia Assimétrica
   Usa uma única chave para criptografar e descriptografar (chave secreta).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -25,10 +25,10 @@ Atividades:
   
   Assinatura eletrônica e assinatura digital são termos relacionados, mas não são a mesma coisa12345:
 
-## - Assinatura eletrônica
+#### - Assinatura eletrônica
   É a categoria que engloba todos os tipos de assinatura realizadas eletronicamente. Pode incluir senhas e outros métodos de validação de identidade no meio virtual.
 
-## - Assinatura digital
+#### - Assinatura digital
   É um tipo específico de assinatura eletrônica que utiliza criptografia para garantir a autenticidade e integridade dos documentos digitais. É chamada de assinatura eletrônica qualificada e utiliza certificado digital ICP-Brasil.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
