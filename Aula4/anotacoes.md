@@ -6,11 +6,19 @@ Atividades:
   - 
 ```
 
-- Criptografia Simetrica
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Criptografia Simétrica e Assimétrica
+
+  Técnicas de segurança que permitem transformar dados em códigos indecifráveis para pessoas sem a chave correta. As principais diferenças são:
+
+- Criptografia Simétrica
 
   Chave publica + chave privada (uma criptografa e uma descriptografa)
 
+- Criptografia Assimétrica
 
+  Usa uma única chave para criptografar e descriptografar
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A:
