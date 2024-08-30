@@ -10,7 +10,8 @@ Atividades:
 
 - Criptografia Simétrica e Assimétrica
 
-  Técnicas de segurança que permitem transformar dados em códigos indecifráveis para pessoas sem a chave correta. As principais diferenças são:
+  Técnicas de segurança que permitem transformar dados em códigos indecifráveis para pessoas sem a chave correta.
+  Elas mantém a privacidade e a autenticidade.
 
 - Criptografia Simétrica
 
