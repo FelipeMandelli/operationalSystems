@@ -13,6 +13,7 @@ Atividades:
   Técnicas de segurança que permitem transformar dados em códigos indecifráveis para pessoas sem a chave correta.
   Elas mantém a privacidade e a autenticidade.
   A responsabilidade sobre a chave privada é 100% do seu dono e deve ser mantido em segurança total.
+  A chave publica é publica, como o nome diz, entao todo mundo tem acesso a ela.
 
 #### - Criptografia Simétrica
   Chave publica + chave privada (uma criptografa e uma descriptografa).
