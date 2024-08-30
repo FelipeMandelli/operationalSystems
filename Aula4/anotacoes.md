@@ -15,11 +15,11 @@ Atividades:
 
 - Criptografia Simétrica
 
-  Chave publica + chave privada (uma criptografa e uma descriptografa)
+  Chave publica + chave privada (uma criptografa e uma descriptografa).
 
 - Criptografia Assimétrica
 
-  Usa uma única chave para criptografar e descriptografar
+  Usa uma única chave para criptografar e descriptografar (chave secreta).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A:
