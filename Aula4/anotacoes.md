@@ -53,4 +53,7 @@ Ao criptografar o hash de um arquivo usando uma chave privada, eu garanto que aq
 
 - Se eu quero mandar um arquivo para um grupo de pssoas.
   Criptografo com a minha chave privada e compartilho minha chave publica para as pessoas de interesse.
+
+- HTTPS
+  Chave assimetrica no servidor + chave simetrica no navegador. O navegador gera uma chave sercreta, criptografa com a chave publica do servidor e envia para o servidor. O servidor descriptografa com a sua chave privada e a partir de agora, ambos tem a chave secreta para realizar comunicação criptografada.
 ```
