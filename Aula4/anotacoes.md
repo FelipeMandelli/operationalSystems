@@ -44,7 +44,7 @@ Ao criptografar o hash de um arquivo usando uma chave privada, eu garanto que aq
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Exemplo
+#### Exemplos
 
 ```
 - Se eu quero mandar um arquivo para a pessoa A, de modo que apenas A possa ler.
