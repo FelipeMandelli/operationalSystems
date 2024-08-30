@@ -21,19 +21,19 @@ Atividades:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Assinatura digital e assinatura eletrônica:
+### Assinatura digital e assinatura eletrônica:
   
   Assinatura eletrônica e assinatura digital são termos relacionados, mas não são a mesma coisa12345:
 
-- Assinatura eletrônica
+## - Assinatura eletrônica
   É a categoria que engloba todos os tipos de assinatura realizadas eletronicamente. Pode incluir senhas e outros métodos de validação de identidade no meio virtual.
 
-- Assinatura digital
+## - Assinatura digital
   É um tipo específico de assinatura eletrônica que utiliza criptografia para garantir a autenticidade e integridade dos documentos digitais. É chamada de assinatura eletrônica qualificada e utiliza certificado digital ICP-Brasil.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Função Hash criptográfica:
+### Função Hash criptográfica:
   Função unidirecional que transforma uma entrada de n bits e retorna uma saída com um numero fixo de bits independente da entrada.
   Pode haver colisão e há perda de dados (não é reversível)
 
