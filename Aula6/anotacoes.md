@@ -29,6 +29,15 @@ Codificação: Apresentar o conteudo em um formato diferente.
       Serviços devem estar disponiveis e acessivei para os usuários.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Principios de Segurança
+
+  - Criptografia
+    - C = E(P*Ke):
+      - Onde o P é mensagem, Ke é a chave de encriptação, E é o Algorítmo criptografico e C é a mensagem criptografada.
+    - P = D(C*Kd):
+      - Onde P é mensagem, D é o processo de descriptografia, C é a mensagem criptografada e Kd é a chave de decriptografia.   
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### MBR - Livro Kurose
 
   - Amigos Alice e Bob e a intrusa Trudy:
