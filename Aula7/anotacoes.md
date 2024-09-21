@@ -71,8 +71,27 @@ O sistema operacional gerencia o uso dos recursos de hardware utilizados pelos p
   - EMBARCADO
     - Hardware com poucos recursos e energia
   - TEMPO REAL
-    - Comportamento temporal previsível
-      - Soft real-time
-      - Hard real-time
+    - Comportamento temporal previsível (sistema que opera em um deltaT conhecido, exemplo freio de F1)
+      - Soft real-time (em torno de X segundos)
+      - Hard real-time (precisa ser em X segundos)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Componentes de um SO
+
+  - Nucelo ou Kernel
+    - Gerencia os recursos do hardware e implementa as principais abstrações utilizadas pelos aplicativos
+
+  - Inicialização
+    - Reconhece os dispositivos de hardware e carrega o núcleo do sistema na memória.
+
+  - Drivers
+    - Correspondem ao código para acessar os dispositivos físicos. 
+
+  - Utilitários
+    - Software que implementa funcionalidades complementares tais como: formatação de discos, interfaces textuais (shell de comandos), interface gráfica, etc.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Interrupções, Exceções e Traps
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
