@@ -1,7 +1,7 @@
 # Aula 10
 ## Data: 11/10/2024
 
-## 
+## Aula cancelada por conta da chuva
 
 ```
 Atividades:
