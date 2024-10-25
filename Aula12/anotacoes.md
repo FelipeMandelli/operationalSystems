@@ -5,11 +5,17 @@
 
 ```
 Atividades:
-  - 
+  - Fazer um programa
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###  
+###  Exemplo
+
+Criar um programa que procura um texto dentro de um arquivo, como o "grep" utilizando syscall. Não utilizar o wrap em C.
+
+1- Fazer um programa utilizando os wraps para entender a logica do algoritmo.
+
+2- Fazer o mesmo programa usando syscall
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 
